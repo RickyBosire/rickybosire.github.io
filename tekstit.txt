@@ -1,0 +1,14 @@
+******KOTISIVU************
+
+Tervetuloa Dig's Cafeen!
+
+Muistipeli - Kortit asetetaan kuvapuoli alaspäin, ja pelaajien on vuorotellen käännettävä kaksi 
+korttia kerrallaan yrittäen löytää parit. Kun pelaaja löytää parin, hän saa pitää kortit ja saa uuden 
+vuoron.
+
+Ristinolla - Pelilauta koostuu 3x3-ruudun verkosta, ja pelaajat vuorottelevat merkitsemällä ruutuja 
+joko risti- tai nollasymbolilla. Tavoitteena on saada kolme omaa symbolia peräkkäin joko 
+vaakasuoraan, pystysuoraan tai diagonaalisesti.
+
+Matopeli - Pelin tavoitteena on syödä ruokakohteita, jotka ilmestyvät satunnaisesti pelialueelle, 
+kasvattamalla matoa yhä pidemmäksi
